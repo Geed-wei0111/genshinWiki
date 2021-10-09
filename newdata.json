@@ -1,0 +1,1371 @@
+{
+  "weapon": [
+    {
+      "id": 1,
+      "name": "贯虹之槊",
+      "variety": "长柄武器",
+      "base1": "攻击力10.8% ",
+      "base2": "基础攻击力46",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608",
+      "skill": "金璋皇极：护盾强效提升20%/25%/30%/35%/40%。攻击命中后的8秒内，攻击力提升4%/5%/6%/7%/8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/e/ed/azfydz2vxe65abunn33a1okbvxqnood.png"
+    },
+    {
+      "id": 2,
+      "name": "天空之脊",
+      "variety": "长柄武器",
+      "base1": "元素充能效率8% ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "元素充能效率36.8%",
+      "base2_max": "674 ",
+      "skill": "斫断黑翼的利齿：暴击率提升8%/10%/12%/14%/16%， 普通攻击速度提升12%, 此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外40%/55%/70%/85%/100%攻击力的伤害。该效果每2秒至多触发一次。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/7/78/2xhhbluf7qsanm6pae1lnyoowy9nepd.png/150px-%E5%A4%A9%E7%A9%BA%E4%B9%8B%E8%84%8A.png"
+    },
+    {
+      "id": 3,
+      "name": "和璞鸢",
+      "variety": "长柄武器",
+      "base1": "暴击率4.8%  ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "暴击率22.1% ",
+      "base2_max": "674 ",
+      "skill": "昭理的鸢之枪：命中敌人时自身攻击力提高3.2%/3.9%/4.6%/5.3%/6%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升12%/15%/18%/21%/24%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/1/17/qrsylrcoha9i3rmfaah1ojzymvsuhf9.png"
+    },
+    {
+      "id": 4,
+      "name": "护摩之杖",
+      "variety": "长柄武器",
+      "base1": "暴击伤害14.4%  ",
+      "base2": "基础攻击力46  ",
+      "base1_max": "暴击伤害66.2%  ",
+      "base2_max": "608",
+      "skill": "无羁的朱赤之蝶：生命值提升20%/25%/30%/35%/40%。此外，提供基于装备该武器的角色生命值上限的0.8%/1%/1.2%/1.4%/1.6%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1%/1.2%/1.4%/1.6%/1.8%最大生命值上限的攻击力提升。",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/8e/a51l6s0dgl60labf14kheehbssdlrcd.png"
+    },
+    {
+      "id": 5,
+      "name": "尘世之锁",
+      "variety": "法器",
+      "base1": "攻击力10.8% ",
+      "base2": "基础攻击力46  ",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608",
+      "skill": "金璋皇极：护盾强效提升20%/25%/30%/35%/40%。攻击命中后的8秒内，攻击力提升4%/5%/6%/7%/8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。  ",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c1/iv8sa85v2wh81npdj1drdyb01i9b5uq.png"
+    },
+    {
+      "id": 6,
+      "name": "天空之卷",
+      "variety": "法器",
+      "base1": "攻击力7.2% ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "百分比攻击力33.1% ",
+      "base2_max": "674",
+      "skill": "浮游四方的灵云：元素伤害加成提升12%/15%/18%/21%/24%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于160%/200%/240%/280%/320%攻击力的伤害。该效果每30秒只能触发一次。（备注：快照锁面板，攻击6次，多本书可叠加） ",
+      "picture": "https://patchwiki.biligame.com/images/ys/5/5e/ljga8vdrkv9u3erfguhsuv9i568l8yo.png"
+    },
+    {
+      "id": 7,
+      "name": "四风原典",
+      "variety": "法器",
+      "base1": "暴击率7.2%  ",
+      "base2": "基础攻击力46 ",
+      "base1_max": "暴击率33.1%  ",
+      "base2_max": "608",
+      "skill": "无边际的眷顾：移动速度提高10%；在场上每4秒获得8%/10%/12%/14%/16%元素伤害加成。该效果最多叠加4层，角色倒下或离场后清空。  ",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/85/h2any7ypjy8nejtlu4dshfb5ds73n7r.png"
+    },
+    {
+      "id": 8,
+      "name": "阿莫斯之弓",
+      "variety": "弓",
+      "base1": "攻击力10.8%   ",
+      "base2": "基础攻击力46  ",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608 ",
+      "skill": "矢志不忘：·普通攻击和重击造成的伤害提升12%/15%/18%/21%/24%;箭矢发射后每经过0.1秒，伤害还会提升8%/10%/12%/14%/16%。至多提升5次。    ",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c6/o1bcb4o9oo765hbycm6949f9f0njcdd.png"
+    },
+    {
+      "id": 9,
+      "name": "天空之翼",
+      "variety": "弓",
+      "base1": "暴击率4.8% ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "暴击率22.1%  ",
+      "base2_max": "674",
+      "skill": "回响长天的诗歌：·暴击伤害提高20%/25%/30%/35%/40%；攻击命中时有60%/70%/80%/90%/100%概率造成125%攻击力的小范围物理伤害，该效果每4秒/3.5秒/3秒/2.5秒/2秒只能触发一次。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/a2/tj1tuu3q9s6cdvgp52jdeydqla8x4v0.png"
+    },
+    {
+      "id": 10,
+      "name": "终末嗟叹之诗",
+      "variety": "弓",
+      "base1": "元素充能效率12.0%",
+      "base2": "基础攻击力46 ",
+      "base1_max": "元素充能效率55.1% ",
+      "base2_max": "608",
+      "skill": "元素精通提高100/125/150/175/200点，攻击力提升20%/25%/30%/35%/40%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/a1/2s11z5u7vd4hte4qb3lmfz9qww4gzl9.png"
+    },
+    {
+      "id": 11,
+      "name": "天空之傲",
+      "variety": "双手剑",
+      "base1": "元素充能效率8% ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "元素充能效率36.8%  ",
+      "base2_max": "674",
+      "skill": "斩裂晴空的龙脊：造成的伤害提高8%/10%/12%/14%/16%;施放元素爆发后:普通攻击和重击命中时会发出真空刃，对路径上的敌人造成80%/100%/120%/140%/160%攻击力的伤害，持续20秒或直至发出8次真空刃。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/a8/1ymiut626atl2wctx4ukolw60w9mvwd.png"
+    },
+    {
+      "id": 12,
+      "name": "狼的末路",
+      "variety": "双手剑",
+      "base1": "攻击力10.8% ",
+      "base2": "基础攻击力46  ",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608",
+      "skill": "如狼般狩猎者：攻击力提高20%/25%/30%/35%/40%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高40%/50%/60%/70%/80%，持续12秒。该效果30秒只能触发一次。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/9/9a/s5wst50l76mnmcds5qq7a3w5ij1jt3x.png"
+    },
+    {
+      "id": 13,
+      "name": "无工之剑",
+      "variety": "双手剑",
+      "base1": "攻击力10.8% ",
+      "base2": "基础攻击力46  ",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608",
+      "skill": "金璋皇极：护盾强效提升20%/25%/30%/35%/40%。攻击命中后的8秒内，攻击力提升4%/5%/6%/7%/8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下，该效果的攻击力提升效果提高100%。  ",
+      "picture": "https://patchwiki.biligame.com/images/ys/3/3f/70dgonrnywx17g1yy5po2bej6pknb6c.png"
+    },
+    {
+      "id": 14,
+      "name": "斫峰之刃",
+      "variety": "单手剑",
+      "base1": "攻击力10.8% ",
+      "base2": "基础攻击力46 ",
+      "base1_max": "百分比攻击力49.6% ",
+      "base2_max": "608",
+      "skill": "金璋皇极：护盾强效提升20%/25%/30%/35%/40%。攻击命中后的8秒内，攻击力提升4%/5%/6%/7%/8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/5/52/apwds1zuq7bymq572qthh1aw3j8mjx6.png"
+    },
+    {
+      "id": 15,
+      "name": "风鹰剑",
+      "variety": "单手剑",
+      "base1": "物理伤害加成9.0%  ",
+      "base2": "基础攻击力48 ",
+      "base1_max": "物理伤害加成41.3% ",
+      "base2_max": "674",
+      "skill": "西风之鹰的抗争：攻击力提高20%/25%/30%/35%/40%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复同等与攻击力的100%/115%/130%/145%/160%生命值，并对周围的敌人造成200%/230%/260%/290%/320%攻击力的伤害。该效果每15秒只能触发一次。  ",
+      "picture": "https://patchwiki.biligame.com/images/ys/5/5d/0nq1evrhhxelybr3mogpxoouc4s6b98.png"
+    },
+    {
+      "id": 16,
+      "name": "磐岩结绿",
+      "variety": "单手剑",
+      "base1": "暴击率9.6%  ",
+      "base2": "基础攻击力44 ",
+      "base1_max": "暴击率44.1% ",
+      "base2_max": "542",
+      "skill": "护国的无垢之心：生命值提升20%/25%/30%/35%/40%。此外，基于装备该武器的角色生命值上限的1.2%/1.5%/1.8%/2.1%/2.4%,获得攻击力加成。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/0/0c/a3c2nk6mszyh54oa3h85ey3a2llox9h.png"
+    },
+    {
+      "id": 17,
+      "name": "天空之刃",
+      "variety": "单手剑",
+      "base1": "元素充能效率12.0% ",
+      "base2": "基础攻击力46 ",
+      "base1_max": "元素充能效率55.1%  ",
+      "base2_max": "608",
+      "skill": "穿刺高天的利齿：暴击率提升4%/5%/6%/7%/8%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成20%/25%/30%/35%/40%攻击力的伤害，持续12秒。",
+      "picture": "https://patchwiki.biligame.com/images/ys/e/e3/pdych2p08vbppwo0q777tpt8ij5xu0i.png"
+    },
+    {
+      "id": 18,
+      "name": "西风剑",
+      "variety": "单手剑",
+      "base1": "攻击力7.7%",
+      "base2": "基础攻击力39",
+      "base1_max": "攻击力35.2%",
+      "base2_max": "440",
+      "skill": "降世：普通攻击与重击命中敌人后有50%概率在小范围内造成200%攻击力的伤害。该效果每10秒只能触发一次;此外，旅行者装备降临之剑时，攻击力提升66点。\r\n=该武器技能效果初始即满级，无法精炼。",
+      "picture": "https://patchwiki.biligame.com/images/ys/7/74/snhkeenr6chyqhfdwwntci7u8iqnys3.png"
+    },
+    {
+      "id": 19,
+      "name": "黑岩长剑",
+      "variety": "单手剑",
+      "base1": "暴击伤害8.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "暴击伤害36.8%",
+      "base2_max": "565",
+      "skill": "乘胜追击：击败敌人后，攻击力提升12%/15%/18%/21%/24%，持续30秒。该效果至多叠加三层，每层持续时间独立。",
+      "picture": "https://patchwiki.biligame.com/images/ys/3/3b/sb1fghkah0hn4is9a3jmfhqkmslz44q.png"
+    },
+    {
+      "id": 20,
+      "name": "黑剑",
+      "variety": "单手剑",
+      "base1": "暴击率6.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击率27.6%",
+      "base2_max": "510",
+      "skill": "\t「正义」：普通攻击与重击造成的伤害提升20%/25%/30%/35%/40%；此外普通攻击和重击暴击时，恢复等同于攻击力60/70/80/90/100%的生命值。该效果每5秒至多发动一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/4a/3ve4num887ksh8gqh12a5z2k0mmbegm.png"
+    },
+    {
+      "id": 21,
+      "name": "试作斩岩",
+      "variety": "单手剑",
+      "base1": "物理伤害加成7.5%",
+      "base2": "基础攻击力44",
+      "base1_max": "物理伤害加成34.5%",
+      "base2_max": "565",
+      "skill": "\t碎石：普通攻击或重击命中时，攻击力（原为基础攻击力）和防御力提高4%/5%/6%/7%/8%，持续6秒，最多叠加4层。该效果每0.3秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/af/fq5reyiyfz37umtz3ngdue1pbtnbma6.png"
+    },
+    {
+      "id": 22,
+      "name": "腐殖之剑",
+      "variety": "单手剑",
+      "base1": "元素充能效率10.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "元素充能效率45.9%",
+      "base2_max": "510",
+      "skill": "无尽的渴慕：元素战技造成的伤害增加16/20/24/28/32%，元素战技的暴击率提升6/7.5/9/10.5/12%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c2/qf4xr9irx3sj3mh2ohzihtwwhixo8h5.png"
+    },
+    {
+      "id": 23,
+      "name": "暗巷闪光",
+      "variety": "单手剑",
+      "base1": "元素精通12",
+      "base2": "基础攻击力45",
+      "base1_max": "元素精通55",
+      "base2_max": "620",
+      "skill": "街巷游侠：造成的伤害提升12%/15%/18%/21%/24%，受到伤害后的5秒内失效。",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/89/m0uex1u5qswbnpqebv75ppgf19dowrc.png"
+    },
+    {
+      "id": 24,
+      "name": "宗室长剑",
+      "variety": "单手剑",
+      "base1": "\t攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "专注：攻击造成伤害时，暴击率提升8%/10%/12%/14%/16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/5/53/ei69kfgd5hcuplrcdlrkqp7corrp80j.png"
+    },
+    {
+      "id": 25,
+      "name": "铁蜂刺",
+      "variety": "单手剑",
+      "base1": "元素精通36",
+      "base2": "基础攻击力42",
+      "base1_max": "元素精通165",
+      "base2_max": "510",
+      "skill": "\t注能之刺：造成元素伤害后的6秒内，角色造成的伤害提高6%/7.5%/9%/10.5%/12%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/3/3b/ryh96u1cs5jcf2w02vbhtzw75lylc9m.png"
+    },
+    {
+      "id": 26,
+      "name": "笛剑",
+      "variety": "单手剑",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "\t攻击力41.3%",
+      "base2_max": "510",
+      "skill": "和弦：普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成100%/125%/150%/175%/200%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+      "picture": "https://patchwiki.biligame.com/images/ys/f/fd/5hbxsdik3322ar5z2d4s4qkj3gf8gnh.png"
+    },
+    {
+      "id": 27,
+      "name": "匣里龙吟",
+      "variety": "单手剑",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "踏火息雷：对处于火元素或雷元素影响下的敌人，造成的伤害提高20%/24%/28%/32%/36%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/b6/fnmxiyrh35272i8h9jydyqadyqkfw0e.png"
+    },
+    {
+      "id": 28,
+      "name": "祭礼剑",
+      "variety": "单手剑",
+      "base1": "元素充能效率13.3%",
+      "base2": "基础攻击力41",
+      "base1_max": "\t元素充能效率61.3%",
+      "base2_max": "454",
+      "skill": "气定神闲：元素战技造成伤害时，有40%/50%/60%/70%/80%概率重置该技能的冷却时间，该效果每30/26/22/19/16秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/a0/94o647bri6ccuviq733khmrzfekwixv.png"
+    },
+    {
+      "id": 29,
+      "name": "白影剑",
+      "variety": "双手剑",
+      "base1": "防御力11.3%",
+      "base2": "基础攻击力42",
+      "base1_max": "防御力51.7%",
+      "base2_max": "510",
+      "skill": "注能之锋：普通攻击和重击命中后，攻击力和防御力提高6%/7.5%/9%/10.5%/12%。该效果持续6秒，最多叠加4层，每0.5秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/2/28/jr9n32gce7t4mp4wngtilxpxesmhyvd.png"
+    },
+    {
+      "id": 30,
+      "name": "雨裁",
+      "variety": "双手剑",
+      "base1": "元素精通36",
+      "base2": "基础攻击力42",
+      "base1_max": "元素精通165",
+      "base2_max": "510",
+      "skill": "止水息雷：对处于水元素或雷元素影响下的敌人，造成的伤害提高20％/24%/28%/32%/36%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c9/a2hgbmdegka66sycqn26nof7f5eggaa.png"
+    },
+    {
+      "id": 31,
+      "name": "祭礼大剑",
+      "variety": "双手剑",
+      "base1": "元素充能效率6.7%",
+      "base2": "基础攻击力44",
+      "base1_max": "\t元素充能效率30.6%",
+      "base2_max": "565",
+      "skill": "气定神闲：元素战技造成伤害时，有40%/50%/60%/70%/80%概率重置该技能的冷却时间，该效果每30/26/22/19/16秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/d/d3/ph4fb03f9uc9jqek1u2li6si3bp9ep6.png"
+    },
+    {
+      "id": 32,
+      "name": "黑岩斩刀",
+      "variety": "双手剑",
+      "base1": "暴击伤害12.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击伤害55.1%",
+      "base2_max": "510",
+      "skill": "乘胜追击：击败敌人后,攻击力提升12%/15%/18%/21%/24%,持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/44/buzpaggrxsisk8l4kiaz5zba19ug2e3.png"
+    },
+    {
+      "id": 33,
+      "name": "宗室大剑",
+      "variety": "双手剑",
+      "base1": "攻击力6.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "专注：攻击造成伤害时，暴击率提升8%/10%/12%/14%/16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/1/1f/c6ruhw5q4szn19bem7bs12qvpvwu09e.png"
+    },
+    {
+      "id": 34,
+      "name": "螭骨剑",
+      "variety": "双手剑",
+      "base1": "\t暴击率6.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击率27.6%",
+      "base2_max": "510",
+      "skill": "破浪：角色在场上时，每4秒提升6%/7%/8%/9%/10%造成的伤害，3%/2.7%/2.4%/2.2%/2%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/4c/a03ookbm5axi3xyxxdkr8g4ky0gw3fv.png"
+    },
+    {
+      "id": 35,
+      "name": "雪葬的星银",
+      "variety": "双手剑",
+      "base1": "物理伤害加成7.5%",
+      "base2": "基础攻击力44",
+      "base1_max": "物理伤害加成34.5%",
+      "base2_max": "565",
+      "skill": "霜葬：普通攻击与重击命中敌人时，有60%/70%/80%/90%/100%概率在敌人上方生成恒冰晶核并坠落，造成80%/95%/110%/125%/140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%/240%/280%/320%/360%攻击力的伤害。该效果每10秒至多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/d/d9/okmj08vuwblqbc5hm8rc51hs14hkv0c.png"
+    },
+    {
+      "id": 36,
+      "name": "西风大剑",
+      "variety": "双手剑",
+      "base1": "\t元素充能效率13.3%",
+      "base2": "基础攻击力41",
+      "base1_max": "元素充能效率61.3%",
+      "base2_max": "454",
+      "skill": "\t顺风而行：攻击造成暴击时，有60%/70%/80%/90%/100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12/10.5/9/7.5/6秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/85/ehb1s9y8ae4voq08ndoyauyn1tp9zqu.png"
+    },
+    {
+      "id": 37,
+      "name": "试作古华",
+      "variety": "双手剑",
+      "base1": "攻击力6.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "粉碎：普通攻击和重击命中时，有50%的概率对小范围内的敌人造成240%/300%/360%/420%/480%攻击力的额外伤害。该效果每15秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/1/1c/gfejb3e6w0vqa659eckz1f7y9t3slyr.png"
+    },
+    {
+      "id": 38,
+      "name": "钟剑",
+      "variety": "双手剑",
+      "base1": "生命值9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "\t生命值41.3%",
+      "base2_max": "510",
+      "skill": "叛逆的守护者：受到伤害时，生成一个伤害吸收等同于生命上限20%/23%/26%/29%/32%的护盾，持续10秒或者直到护盾失效，每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升12%/15%/18%/21%/24%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/3/38/lz61cywx7g0x0gr5g9hmghz050h1h9o.png"
+    },
+    {
+      "id": 39,
+      "name": "千岩古剑",
+      "variety": "双手剑",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "\t千岩诀·同心：队伍中每有一位璃月角色，装备该武器的角色便获得7%/8%/9%/10%/11%攻击力提升与3%/4%/5%/6%/7%暴击率提升。至多获得4层提升效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c0/67h6ygjm57faxd8odp71kmi5kaqneuk.png"
+    },
+    {
+      "id": 40,
+      "name": "绝弦",
+      "variety": "弓",
+      "base1": "元素精通36",
+      "base2": "基础攻击力42",
+      "base1_max": "元素精通165",
+      "base2_max": "510",
+      "skill": "无矢之歌：元素战技与元素爆发的伤害提高24％/30%/36%/42%/48%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/6/66/1wlrzu80qe5jwzv9zxa9apuzkkt5m06.png"
+    },
+    {
+      "id": 41,
+      "name": "风花之颂",
+      "variety": "弓",
+      "base1": "元素精通36",
+      "base2": "基础攻击力42",
+      "base1_max": "元素精通165",
+      "base2_max": "510",
+      "skill": "风花之愿：施放元素战技时，获得风之花的悠古愿望加持，攻击力提升16%/20%/24%/28%/32%，持续6秒",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/4c/1anq6ld3vkvak7egwrw9cnmor6ed0t7.png"
+    },
+    {
+      "id": 42,
+      "name": "弓藏",
+      "variety": "弓",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "速射弓斗：普通攻击伤害提升40%/50%/60%/70%/80%，重击伤害下降10%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/88/jqv0wgqqrk8uzrl0bkjlm2z271r3wx6.png"
+    },
+    {
+      "id": 43,
+      "name": "幽夜华尔兹",
+      "variety": "弓",
+      "base1": "物理伤害加成11.3%",
+      "base2": "基础攻击力42",
+      "base1_max": "物理伤害加成51.7%",
+      "base2_max": "510",
+      "skill": "极夜二重奏：普通攻击命中敌人后的5秒内，元素战技造成的伤害提升20%/25%/30%/35%/40%;\r\n元素战技命中敌人后的5秒内，普通攻击造成的伤害提升20%/25%/30%/35%/40%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/0/0e/b5mx66j5mn9zt1rvw2le4getvtz8aw5.png"
+    },
+    {
+      "id": 44,
+      "name": "钢轮弓",
+      "variety": "弓",
+      "base1": "物理伤害加成15.0%",
+      "base2": "基础攻击力41",
+      "base1_max": "物理伤害加成69.0%",
+      "base2_max": "454",
+      "skill": "注能之矢：普通攻击和瞄准攻击命中时，提升4%/5%/6%/7%/8%攻击力与1.2%/1.5%/1.8%/2.1%/2.4%普通攻击速度。该效果持续6秒，最多可以叠加4层，每0.3秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/7/7a/0z9oqbgp7xmufb10i51oopdi285ewfi.png"
+    },
+    {
+      "id": 45,
+      "name": "西风猎弓",
+      "variety": "弓",
+      "base1": "元素充能效率13.3％",
+      "base2": "基础攻击力41",
+      "base1_max": "元素充能效率61.3%",
+      "base2_max": "454",
+      "skill": "顺风而行：攻击造成暴击时，有60%/70%/80%/90%/100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12/10.5/9/7.5/6秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/5/55/ptq434ipzu2tdibixc9u0of6h0sj5sm.png"
+    },
+    {
+      "id": 46,
+      "name": "黑岩战弓",
+      "variety": "弓",
+      "base1": "暴击伤害8.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "暴击伤害36.8%",
+      "base2_max": "565",
+      "skill": "乘胜追击：击败敌人后,攻击力提升12%/15%/18%/21%/24%,持续30秒。该效果至多叠加3层,每层持续时间独立。",
+      "picture": "https://patchwiki.biligame.com/images/ys/9/9e/2477l07lereuehc60ssgv4amlcjeayh.png"
+    },
+    {
+      "id": 47,
+      "name": "试作澹月",
+      "variety": "弓",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "离簇不归：瞄准射击时，若命中要害，则提升10%移动速度与36%/45%/54%/63%/72%攻击力，持续10秒。",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/ae/f7vngju0e5np72x0u4e49k847kme9u8.png"
+    },
+    {
+      "id": 48,
+      "name": "宗室长弓",
+      "variety": "弓",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "专注：攻击造成伤害时，暴击率提升8%/10%/12%/14%/16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/c6/519wyscbjlu9mh20rg3ghfi7hz28ouv.png"
+    },
+    {
+      "id": 49,
+      "name": "暗巷猎手",
+      "variety": "弓",
+      "base1": "攻击力6%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "街巷伏击：装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2%/2.5%/3%/3.5%/4%,最多通过这种方式获得20%/25%/30%/35%/40%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失4%/5%/6%/7%/8%，直到降低至0%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/40/5ymxa0sdy5ymls5y9fj3zkej2d5mx6c.png"
+    },
+    {
+      "id": 50,
+      "name": "祭礼弓",
+      "variety": "弓",
+      "base1": "元素充能效率6.7％",
+      "base2": "基础攻击力44",
+      "base1_max": "元素充能效率30.6%",
+      "base2_max": "565",
+      "skill": "气定神闲：元素战技造成伤害时，有40％/50%/60%/70%/80%的概率重置该技能的冷却时间，该效果每30/26/22/19/16秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/b2/2rec7q8fz258yn1ugmm13cojcx2cjdq.png"
+    },
+    {
+      "id": 51,
+      "name": "苍翠猎弓",
+      "variety": "弓",
+      "base1": "暴击率6.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击率27.6%",
+      "base2_max": "510",
+      "skill": "苍翠之风：普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成40%/50%/60%/70%/80%攻击力的伤害。该效果持续4秒，每14/13/12/11/10秒至多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/7/77/7c6x3yu5fb0uj76cyuzf9vc0bdgk4h7.png"
+    },
+    {
+      "id": 52,
+      "name": "试作金珀",
+      "variety": "法器",
+      "base1": "生命值9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "生命值41.3%",
+      "base2_max": "510",
+      "skill": "炊金：施放元素爆发后6秒内，每2秒恢复4/4.5/5/5.5/6点元素能量，队伍中的所有角色每2秒恢复4%/4.5%/5%/5.5%/6%生命值。",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/ac/p578m7ua6jzji5qhigdqmf3komz09zx.png"
+    },
+    {
+      "id": 53,
+      "name": "祭礼残章",
+      "variety": "法器",
+      "base1": "元素精通48",
+      "base2": "基础攻击力41",
+      "base1_max": "\t元素精通221",
+      "base2_max": "454",
+      "skill": "气定神闲：元素战技造成伤害时，有40%/50%/60%/70%/80%的概率重置该技能的冷却时间，该效果每30/26/22/19/16秒只能触发1次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/bf/eey13bo96c5di0j2wfhd6pq1dhsgk5r.png"
+    },
+    {
+      "id": 54,
+      "name": "黑岩绯玉",
+      "variety": "法器",
+      "base1": "暴击伤害12.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击伤害55.1%",
+      "base2_max": "510",
+      "skill": "乘胜追击：击败敌人后，攻击力提升12%/15%/18%/21%/24%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "picture": "https://patchwiki.biligame.com/images/ys/0/0e/mp51gft6okg6t4lcm3ro4um607612zn.png"
+    },
+    {
+      "id": 55,
+      "name": "昭心",
+      "variety": "法器",
+      "base1": "攻击力12.0%",
+      "base2": "基础攻击力41",
+      "base1_max": "攻击力55.1%",
+      "base2_max": "454",
+      "skill": "回响：普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成240%/270%/300%/330%/360%攻击力伤害，至多在敌人之间弹射4次。该效果每12/11/10/9/8秒至多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/e/e9/bsmftbddqryi4mp9nwql8tvi5gh964k.png"
+    },
+    {
+      "id": 56,
+      "name": "万国诸海图谱",
+      "variety": "法器",
+      "base1": "元素精通24",
+      "base2": "基础攻击力44",
+      "base1_max": "元素精通110",
+      "base2_max": "565",
+      "skill": "注能之卷：触发元素反应后的10秒内，获得8%/10%/12%/14%/16%元素伤害加成，该效果最多可叠加2层",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/b4/snhy06y9px3auxic0wbs7f1pxsme5w7.png"
+    },
+    {
+      "id": 57,
+      "name": "嘟嘟可故事集",
+      "variety": "法器",
+      "base1": "攻击力12%",
+      "base2": "基础攻击力41",
+      "base1_max": "攻击力55.1%",
+      "base2_max": "454",
+      "skill": "嘟嘟！大冒险：普通攻击命中敌人后的6秒内，重击造成的伤害提升16/20/24/28/32%;\r\n重击命中敌人后的6秒内，攻击力提升8/10/12/14/16%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/a/a9/to27idcbyyvjyozelpt281o2wqpkppu.png"
+    },
+    {
+      "id": 58,
+      "name": "暗巷的酒与诗",
+      "variety": "法器",
+      "base1": "元素充能效率6.7%",
+      "base2": "基础攻击力44",
+      "base1_max": "元素充能效率30.6%",
+      "base2_max": "565",
+      "skill": "变化万端：普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低14%/16%/18%/20%/22%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升20%/25%/30%/35%/40%，持续5秒。",
+      "picture": "https://patchwiki.biligame.com/images/ys/1/1b/8p7ebo8ma61z683tkjnrvw2llmqnx6f.png"
+    },
+    {
+      "id": 59,
+      "name": "宗室秘法录",
+      "variety": "法器",
+      "base1": "攻击力6.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "专注：攻击造成伤害时，暴击率提升8%/10%/12%/14%/16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/4d/0wxzvohfvm6tkkrh2mcr20ltefdtfvy.png"
+    },
+    {
+      "id": 60,
+      "name": "流浪乐章",
+      "variety": "法器",
+      "base1": "暴击伤害12.0％",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击伤害55.1%",
+      "base2_max": "510",
+      "skill": "登场乐：角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升60%/75%/90%/105%/120%；咏叹调：全元素伤害提升48%/60％/72%/84%/96%；间奏曲：元素精通提升240/300/360/420/480。",
+      "picture": "https://patchwiki.biligame.com/images/ys/8/8b/1gfpyhq0horhcbho0eqs1c62nklx118.png"
+    },
+    {
+      "id": 61,
+      "name": "匣里日月",
+      "variety": "法器",
+      "base1": "暴击率6.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击率27.6%",
+      "base2_max": "510",
+      "skill": "日月辉：普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高20%/25%/30%/35%/40%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高20%/25%/30%/35%/40%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/c/ca/m9wcqu2irdto40c5byid1no15zouv2f.png"
+    },
+    {
+      "id": 62,
+      "name": "西风秘典",
+      "variety": "法器",
+      "base1": "攻击力9.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "攻击力41.3%",
+      "base2_max": "510",
+      "skill": "霜葬：普通攻击与重击命中敌人时，有60%/70%/80%/90/100%概率在敌人上方生成恒冰晶核并坠落，造成80%/95%/110%/125%/140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%/240%/280%/320%/360%攻击力的伤害。该效果每10秒至多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/1/1e/0mqvavh1ryy2zpz6wt3apvph7ral6v7.png"
+    },
+    {
+      "id": 63,
+      "name": "决斗之枪",
+      "variety": "长柄武器",
+      "base1": "暴击率8.0%",
+      "base2": "基础攻击力41",
+      "base1_max": "暴击率36.8%",
+      "base2_max": "454",
+      "skill": "角斗士：身边至少有2个敌人时，获得16%/20%/24%/28%/32%攻击力提升与16%/20%/24%/28%/32%防御力提升；身边的敌人少于2个时，获得24%/30%/36%/42%/48%攻击力提升。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/49/6kwk4rcg7hrag06ru43n001345slipa.png"
+    },
+    {
+      "id": 64,
+      "name": "龙脊长枪",
+      "variety": "长柄武器",
+      "base1": "物理伤害加成15.0%",
+      "base2": "基础攻击力41",
+      "base1_max": "物理伤害加成69.0%",
+      "base2_max": "454",
+      "skill": "霜葬：普通攻击与重击命中敌人时，有60%/70%/80%/90%/100%概率在敌人上方生成恒冰晶核并坠落，造成80%/95%/110%/125%/140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%/240%/280%/320%/360%攻击力的伤害。该效果每10秒至多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/f/f6/g0wtjxe5sk8el47lmax1ixuv862629y.png"
+    },
+    {
+      "id": 65,
+      "name": "宗室猎枪",
+      "variety": "长柄武器",
+      "base1": "攻击力6.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "专注：攻击造成伤害时，暴击率提升8%/10%/12%/14%/16%,最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/2/2b/7mjirb502bv9kjfw7w0lao7hayjl84r.png"
+    },
+    {
+      "id": 66,
+      "name": "流月针",
+      "variety": "长柄武器",
+      "base1": "物理伤害加成7.5%",
+      "base2": "基础攻击力44",
+      "base1_max": "物理伤害加成34.5%",
+      "base2_max": "565",
+      "skill": "注能之针：获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成20%/25%/30%/35%/40%攻击力伤害。",
+      "picture": "https://patchwiki.biligame.com/images/ys/9/92/99k8uxhkckglspqsgvjhyppoc2vmbkv.png"
+    },
+    {
+      "id": 67,
+      "name": "匣里灭辰",
+      "variety": "长柄武器",
+      "base1": "元素精通48",
+      "base2": "基础攻击力41",
+      "base1_max": "元素精通221",
+      "base2_max": "454",
+      "skill": "\t踏火止水：对于处于水元素或火元素影响下的敌人，造成的伤害提高20%/24%/28%/32%/36%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/4/4a/oglqma2aqftd6cxts3i4mgnaddfxmob.png"
+    },
+    {
+      "id": 68,
+      "name": "千岩长枪",
+      "variety": "长柄武器",
+      "base1": "攻击力6.0%",
+      "base2": "基础攻击力44",
+      "base1_max": "百分比攻击力27.6%",
+      "base2_max": "565",
+      "skill": "千岩诀·同心：队伍中每有一位璃月角色，装备该武器的角色便获得7%/8%/9%/10%/11%攻击力提升与3%/4%/5%/6%/7%暴击率提升。至多获得4层提升效果。",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/b9/t90pbsrnnvhmrakx518y6v48buiwvf9.png"
+    },
+    {
+      "id": 69,
+      "name": "试作星镰",
+      "variety": "长柄武器",
+      "base1": "元素充能效率10.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "元素充能效率45.9%",
+      "base2_max": "510",
+      "skill": "嗜魔：施放元素战技后，普通攻击和重击造成的伤害提高8%/10%/12%/14%/16%。该效果持续12秒，最多叠加2层。",
+      "picture": "https://patchwiki.biligame.com/images/ys/7/7d/c08xuqa5babolxeza3469h0h6qakjsd.png"
+    },
+    {
+      "id": 70,
+      "name": "西风长枪",
+      "variety": "长柄武器",
+      "base1": "元素充能效率6.7%",
+      "base2": "基础攻击力44",
+      "base1_max": "元素充能效率30.6%",
+      "base2_max": "565",
+      "skill": "顺风而行：攻击造成暴击时，有60%/70%/80%/90%/100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12/10.5/9/7.5/6秒只能触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/b/b9/iks26f9sp5okxrfkqwcad77wujwt9rm.png"
+    },
+    {
+      "id": 71,
+      "name": "黑岩刺枪",
+      "variety": "长柄武器",
+      "base1": "暴击伤害12.0%",
+      "base2": "基础攻击力42",
+      "base1_max": "暴击伤害55.1%",
+      "base2_max": "510",
+      "skill": "乘胜追击：击败敌人后，攻击力提升12%/15%/18%/21%/24%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "picture": "https://patchwiki.biligame.com/images/ys/e/eb/essnw00jgeqt0be88db7hd1ttplrsse.png"
+    }
+  ],
+  "relics": [
+    {
+      "id": 1,
+      "name": "被怜爱的少女",
+      "skill1": "角色造成的治疗效果提升15%",
+      "skill2": "施放元素战技或元素爆发后的10秒内，队伍中所有角色受治疗效果加成提高20%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/e/e1/rzdnqzzltdxn2i0ltdkrcvqt4ceq3qt.png/90px-%E8%A2%AB%E6%80%9C%E7%88%B1%E7%9A%84%E5%B0%91%E5%A5%B3%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 2,
+      "name": "渡过烈火的贤人",
+      "skill1": "火元素抗性提高40%。",
+      "skill2": "对处于火元素影响下的敌人造成的伤害提升35%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/6/6e/q3rcpyms8sq2cqb3wrhat5jiy4qq90a.png/90px-%E6%B8%A1%E8%BF%87%E7%83%88%E7%81%AB%E7%9A%84%E8%B4%A4%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 3,
+      "name": "千岩牢固",
+      "skill1": "生命值提升20%",
+      "skill2": "元素战技命中敌人后，使队伍中附近的所有角色攻击力提升20%，护盾强效提升30%，持续3秒。该效果每0.5秒至多触发一次。装备此圣遗物套装效果的角色处于队伍后台时，依然能触发该效果。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/6/66/t6e4hwfj35pnkgejg5ttgx4kcvz2bwu.png/90px-%E5%8D%83%E5%B2%A9%E7%89%A2%E5%9B%BA%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 4,
+      "name": "平息鸣雷的尊者",
+      "skill1": "雷元素抗性提高40%。",
+      "skill2": "对处于雷元素影响下的敌人造成的伤害提升35%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/1/14/91dq3fqzj5cgoyznssiwz9u9iugmfy6.png/90px-%E5%B9%B3%E6%81%AF%E9%B8%A3%E9%9B%B7%E7%9A%84%E5%B0%8A%E8%80%85%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 5,
+      "name": "流浪大地的乐团",
+      "skill1": "元素精通提高80点。",
+      "skill2": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/ef1zt7ytwpqx5zivxl6kg53go5zb3wz.png/90px-%E6%B5%81%E6%B5%AA%E5%A4%A7%E5%9C%B0%E7%9A%84%E4%B9%90%E5%9B%A2%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 6,
+      "name": "逆飞的流星",
+      "skill1": "护盾强效提高35% ",
+      "skill2": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/c/cd/0gsj5d33bazor4vi53b7masszc64gd4.png/90px-%E9%80%86%E9%A3%9E%E7%9A%84%E6%B5%81%E6%98%9F%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 7,
+      "name": "翠绿之影",
+      "skill1": "获得15%风元素伤害加成。",
+      "skill2": "扩散反应造成的伤害提升60%，根据扩散的元素类型，降低受到影响的敌人40%的对应元素抗性，持续10秒。（注：需要在扩散反应时，触发该反应的角色在场上才可触发4件套效果。触发后角色下场效果不会提前消失。） ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/efp3dhmrriv81yqoxd4s1n1asuwd388.png/90px-%E7%BF%A0%E7%BB%BF%E4%B9%8B%E5%BD%B1%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 8,
+      "name": "苍白之火",
+      "skill1": "造成的物理伤害提高25%。",
+      "skill2": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/1/18/qrxwl362kpoxdt1tlb9k3vkhpkc2cxz.png/90px-%E8%8B%8D%E7%99%BD%E4%B9%8B%E7%81%AB%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 9,
+      "name": "悠古的磐岩",
+      "skill1": "获得15%岩元素伤害加成。",
+      "skill2": "获得结晶反应形成的晶片时，队伍中所有角色获得35%对应元素伤害加成，持续10秒。同时只能通过该效果获得一种元素伤害加成。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/7/71/8e6y7700u6sj4bmuhbbgexjdmf78zxk.png/90px-%E6%82%A0%E5%8F%A4%E7%9A%84%E7%A3%90%E5%B2%A9%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 10,
+      "name": "昔日宗室之仪",
+      "skill1": "元素爆发造成的伤害提升20％ 。",
+      "skill2": "施放元素爆发后，队伍中所有角色攻击力提升20％，持续12秒。该效果不可叠加。",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/8mnuqh75xn2mumz3dlx08ldvbshxatq.png/90px-%E6%98%94%E6%97%A5%E5%AE%97%E5%AE%A4%E4%B9%8B%E4%BB%AA%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 11,
+      "name": "沉沦之心",
+      "skill1": "获得15%水元素伤害加成。",
+      "skill2": "施放元素战技后的15秒内，普通攻击与重击造成的伤害提高30%。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/f/fa/tq1c4sjm6gbsabdirozwc28lsfftbbh.png/90px-%E6%B2%89%E6%B2%A6%E4%B9%8B%E5%BF%83%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 12,
+      "name": "染血的骑士道",
+      "skill1": "造成的物理伤害提高25%。",
+      "skill2": "击败敌人后的10秒内，施放重击时不消耗体力，且造成的伤害提升50%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/d/dd/mlmy9h8arz2wt6kg3ggvh8ckapum9ss.png/90px-%E6%9F%93%E8%A1%80%E7%9A%84%E9%AA%91%E5%A3%AB%E9%81%93%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 13,
+      "name": "冰风迷途的勇士",
+      "skill1": "获得15%冰元素伤害加成。",
+      "skill2": "攻击处于冰元素影响状态下的敌人时，暴击率提高20%；若敌人处于冰冻状态下，暴击率额外提高20%。（注：角色离场后，该效果仍然会触发。） ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/f/f7/n5sfksh7nukkx12fgud6tnsq5gzpews.png/90px-%E5%86%B0%E9%A3%8E%E8%BF%B7%E9%80%94%E7%9A%84%E5%8B%87%E5%A3%AB%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 14,
+      "name": "如雷的盛怒",
+      "skill1": "获得15%雷元素伤害加成。",
+      "skill2": "超载、感电、超导反应造成的伤害提升40%。触发这些元素反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/a/a5/fvpse7eqfjwjya0szxvl51u4ca4u3dw.png/90px-%E5%A6%82%E9%9B%B7%E7%9A%84%E7%9B%9B%E6%80%92%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 15,
+      "name": "角斗士的终幕礼",
+      "skill1": "攻击力提高18%。",
+      "skill2": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/mqydld3lqsili1u07xivt7qva1b77mf.png/90px-%E8%A7%92%E6%96%97%E5%A3%AB%E7%9A%84%E7%BB%88%E5%B9%95%E7%A4%BC%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    },
+    {
+      "id": 16,
+      "name": "炽烈的炎之魔女",
+      "skill1": "获得15%火元素伤害加成。",
+      "skill2": "超载、燃烧反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，二件套的效果提高50%，该效果最多叠加3次。 ",
+      "picture": "https://patchwiki.biligame.com/images/ys/thumb/4/49/0tpl667zrp5zb5z6z3201k8c42ocigx.png/90px-%E7%82%BD%E7%83%88%E7%9A%84%E7%82%8E%E4%B9%8B%E9%AD%94%E5%A5%B3%E7%94%9F%E4%B9%8B%E8%8A%B1.png"
+    }
+  ],
+  "lunbo": [
+    "/icons/lunbo1.png",
+    "/icons/lunbo2.png",
+    "/icons/lunbo3.png",
+    "/icons/lunbo4.png",
+    "/icons/lunbo5.png",
+    "/icons/lunbo6.jpg",
+    "/icons/lunbo7.png"
+  ],
+  "icons": [
+    {
+      "text": "角色图鉴",
+      "icon": "/icons/character.png"
+    },
+    {
+      "text": "视频攻略",
+      "icon": "/icons/mission.png"
+    },
+    {
+      "text": "圣遗物图鉴",
+      "icon": "/icons/relics.png"
+    },
+    {
+      "text": "武器图鉴",
+      "icon": "/icons/weapon.png"
+    }
+  ],
+  "users": [
+    {
+      "nickname": "GEED",
+      "phone": "12411355",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "message": "新的限定弓还没加进来吗"
+    },
+    {
+      "id": 2,
+      "message": "用什么武器不是取决于拿把武器契合，而是取决于我有什么武器，笑死"
+    },
+    {
+      "id": 3,
+      "message": "已移除的武器就不要加进去了吧，本来就提倡测试服和未实装的不要记载，还容易造成数据冗余"
+    },
+    {
+      "id": 4,
+      "message": "黑岩和宗室系列yyds"
+    },
+    {
+      "id": 5,
+      "message": "武器原胚没有获得途径，太黑了"
+    },
+    {
+      "id": 6,
+      "message": "攒了三个月出了个这个，痛苦起来了"
+    },
+    {
+      "id": 7,
+      "message": "甘雨突破加爆伤，暴击20就够，如果是冰套根本不用堆。我4乐团光圣遗物就加了113.5，我还有天空弓自带20爆伤，甘雨80级突破加38.4爆伤，还有自带的50爆伤。50+38.4+113.5+20=221.9，220爆伤轻轻松松"
+    },
+    {
+      "id": 8,
+      "message": "攻击提升不大？？？我带80级试做加了将近1000攻击。。。"
+    },
+    {
+      "id": 9,
+      "message": "能搞到黑岩肯定黑岩吧，攻击提升真的不大。天空弓伤害还没黑岩高"
+    },
+    {
+      "id": 10,
+      "message": "我一直以为叫长枪武器，结果叫长柄，那能不能出镰刀之类的？罗莎莉亚就很配啊，胡桃有很配长棍"
+    },
+    {
+      "id": 11,
+      "message": "暗巷闪光的满级基础攻击力是620，而不是660"
+    },
+    {
+      "id": 12,
+      "message": "咋感觉平民的长柄武器一个比较好的都没有呢。。算了吧还是放弃胡桃吧"
+    },
+    {
+      "message": "喂喂喂，谁能不接受风男呢？",
+      "id": 13
+    },
+    {
+      "message": "fdffd",
+      "id": 14
+    },
+    {
+      "message": "哈哈哈",
+      "id": 15
+    },
+    {
+      "message": "哈哈哈",
+      "id": 16
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "name": "《原神》一个月屯80发？！月入1万不是梦（指原石）",
+      "desc": "我已经被魈榨干了，呜呜┭┮﹏┭┮\r\nup经常会发些兑换码和攻略视频\r\n需要的小伙伴记得点波关注喔(°∀°)ﾉ",
+      "link": "/298428611-1-16.mp4",
+      "picture": "https://i0.hdslb.com/bfs/archive/7fe644bf759ec0af78fc14698ea441fa9fa95ce1.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 2,
+      "name": "零氪玩家一定要练的几个角色！不练一定会后悔！",
+      "desc": "本期视频点赞过1000继续爆肝下期视频！\r\n喜欢我的视频一定要记得三连哦！",
+      "link": "/237149411-1-16.mp4",
+      "picture": "https://i0.hdslb.com/bfs/archive/ee0a892ab1e46b697625644d410fc67978a187d5.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 3,
+      "name": "原神【必出指定5星】玄学大法亲测好用",
+      "desc": "喜欢我的视频一定要记得三连哦！",
+      "link": "/244503336-1-16.mp4",
+      "picture": "https://i2.hdslb.com/bfs/archive/94fa44e55414f7dbc9c167bc185a2887af2dfae8.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 4,
+      "name": "【原神】砂糖 全网最详细养成攻略教学",
+      "desc": "如果对您有帮助，求硬币，求关注。谢谢^_^",
+      "link": "/360298451-1-16.mp4",
+      "picture": "https://i0.hdslb.com/bfs/archive/7a6cab399da6aeeecd889edd9de11f6f547b11d2.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 5,
+      "name": "【原神】零氪玩家36-40级该干什么？",
+      "desc": "钟离 永远滴神！",
+      "link": "/242844808-1-16.mp4",
+      "picture": "https://i1.hdslb.com/bfs/archive/726e3638cf1a167ae8257de05b70c7a6400cb0d1.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 6,
+      "name": "【原神理财 1】不花一分钱！每天白嫖20万摩拉！",
+      "desc": "如果对您有帮助，求硬币，求关注。谢谢^_^",
+      "link": "/242993384-1-16.mp4",
+      "picture": "https://i2.hdslb.com/bfs/archive/13569846941273abb3212a6384a82a8e0c102922.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 7,
+      "name": "原神：虽然这位置藏得阴间了一点，但是“金色宝箱”它香啊！",
+      "desc": "如果对您有帮助，求硬币，求关注。谢谢^_^",
+      "link": "/348748767_nb2-1-16.mp4",
+      "picture": "https://i1.hdslb.com/bfs/archive/0e7c927985b2ddfc761c0ad35e00970e2def4b6a.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 8,
+      "name": "【原神】平砍6000伤，为什么我的主角伤害这么高？",
+      "desc": "如果对您有帮助，求硬币，求关注。谢谢^_^",
+      "link": "/248514855-1-16.mp4",
+      "picture": "https://i1.hdslb.com/bfs/archive/60462e62d754bb156a161f6fcd5c19a2530433c1.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 9,
+      "name": "【原神】40级还在刮痧要不要刷圣遗物？怎么刷？刷什么？答疑解惑",
+      "desc": "每天都会直播原神~\r\n有什么不懂的可以来680直播间问我哦(°∀°)ﾉ",
+      "link": "/244663806-1-16.mp4",
+      "picture": "https://i0.hdslb.com/bfs/archive/b180e94195d56b3c45ed21b658717a9869b07cba.jpg@480w_270h_1c.webp"
+    },
+    {
+      "id": 10,
+      "name": "原神破盾指导，打谁都是锄草！",
+      "desc": "作业：一件三连并转发，并发弹幕，并评论\r\n再也不请家长了！",
+      "link": "/244922863-1-16.mp4",
+      "picture": "https://i0.hdslb.com/bfs/archive/8a7bbe00e3d799be9beb971516abc1fc162b7024.jpg@480w_270h_1c.webp"
+    }
+  ],
+  "weapon_like": [
+    {
+      "wepid": "13",
+      "wepname": "无工之剑",
+      "id": 10
+    },
+    {
+      "wepid": "21",
+      "wepname": "试作斩岩",
+      "id": 11
+    },
+    {
+      "user": "123456789",
+      "wepid": "7",
+      "wepname": "四风原典",
+      "id": 13
+    },
+    {
+      "user": "123456789",
+      "wepid": "21",
+      "wepname": "试作斩岩",
+      "id": 15
+    },
+    {
+      "user": "13312311231",
+      "wepid": "1",
+      "wepname": "贯虹之槊",
+      "id": 16
+    },
+    {
+      "user": "13312311231",
+      "wepid": "21",
+      "wepname": "试作斩岩",
+      "id": 17
+    }
+  ],
+  "video_comment": [
+    {
+      "vid": 2,
+      "comment": "丽莎姐姐，yyds",
+      "id": 1
+    },
+    {
+      "vid": 2,
+      "comment": "还可以这样？",
+      "id": 2
+    },
+    {
+      "vid": 3,
+      "comment": "封面欺诈，我要举报up主",
+      "id": 3
+    },
+    {
+      "vid": 2,
+      "comment": "woc,sha",
+      "id": 4
+    },
+    {
+      "vid": 2,
+      "comment": "??????????",
+      "id": 5
+    },
+    {
+      "vid": 6,
+      "comment": "说实话，旅行者早就富可敌国了。。。",
+      "id": 6
+    },
+    {
+      "vid": 1,
+      "comment": "uhu",
+      "id": 7
+    }
+  ],
+  "character": [
+    {
+      "id": 1,
+      "name": "优菈",
+      "level": "5",
+      "wp_type": "双手剑",
+      "element": "冰",
+      "gender": "女",
+      "country": "蒙德",
+      "blood_max": "13326",
+      "attack_max": "342",
+      "defend_max": "751",
+      "levelup_max": "暴击伤害+38.4%",
+      "skill": "减抗、炼金返还、物理输出、自身伤害提升、自身抗打断",
+      "pic": "https://patchwiki.biligame.com/images/ys/1/1b/jf6qfoaq6q48jx6lvqb88dgl4xta141.png"
+    },
+    {
+      "id": 2,
+      "name": "胡桃",
+      "level": "5",
+      "wp_type": "长枪",
+      "element": "火",
+      "gender": "女",
+      "country": "璃月",
+      "blood_max": "15552",
+      "attack_max": "106",
+      "defend_max": "876",
+      "levelup_max": "暴击伤害38.4%",
+      "skill": "暴击提升、烹饪、自身治疗、自身附魔、自身抗打断、自身伤害提升、自身抗性提高",
+      "pic": "https://patchwiki.biligame.com/images/ys/1/19/6x5q4v3ovlgtd5pk7xlqxjdqv1gvf0a.png"
+    },
+    {
+      "id": 3,
+      "name": "魈",
+      "level": "5",
+      "wp_type": "长枪",
+      "element": "风",
+      "gender": "男",
+      "country": "璃月",
+      "blood_max": "12736",
+      "attack_max": "349",
+      "defend_max": "799",
+      "levelup_max": "暴击率19.2%",
+      "skill": "位移、攀爬消耗减少、自身伤害提升、下落免疫",
+      "pic": "https://patchwiki.biligame.com/images/ys/d/da/5gzl19235uvm0mxu3w45hqnb27f0mn6.png"
+    },
+    {
+      "id": 4,
+      "name": "甘雨",
+      "level": "5",
+      "wp_type": "弓箭",
+      "element": "冰",
+      "gender": "女",
+      "country": "璃月",
+      "blood_max": "9797",
+      "attack_max": "335",
+      "defend_max": "630",
+      "levelup_max": "暴击伤害38.4%",
+      "skill": "嘲讽、锻造返还、减抗、伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/3/3c/qr9mmt4ryhcuovbx82pazu3xv7wr19p.png"
+    },
+    {
+      "id": 5,
+      "name": "阿贝多",
+      "level": "5",
+      "wp_type": "单手剑",
+      "element": "岩",
+      "gender": "男",
+      "country": "蒙德",
+      "blood_max": "13226",
+      "attack_max": "251",
+      "defend_max": "876",
+      "levelup_max": "岩元素伤害加成28.8%",
+      "skill": "炼金返还、伤害提升、精通加成、自身伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/2/21/k1zod68cqa6e89r0poxm9ihfmqfmgvw.png"
+    },
+    {
+      "id": 6,
+      "name": "钟离",
+      "level": "5",
+      "wp_type": "长枪",
+      "element": "岩",
+      "gender": "男",
+      "country": "璃月",
+      "blood_max": "14695",
+      "attack_max": "251",
+      "defend_max": "738",
+      "levelup_max": "岩元素伤害加成28.8%",
+      "skill": "护盾、锻造返还、控制、治疗、减抗、护盾强效、自身伤害提升、自身抗打断",
+      "pic": "https://patchwiki.biligame.com/images/ys/7/7c/eewy674lo37jwuq9qozyszhz8vo0d8j.png"
+    },
+    {
+      "id": 7,
+      "name": "达达利亚",
+      "level": "5",
+      "wp_type": "弓箭",
+      "element": "水",
+      "gender": "男",
+      "country": "至冬",
+      "blood_max": "13103",
+      "attack_max": "301",
+      "defend_max": "815",
+      "levelup_max": "水元素伤害加成+28.8%",
+      "skill": "天赋提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/a/af/4v48u6t4v9mfnwmabch9ojskqa1x61a.png"
+    },
+    {
+      "id": 8,
+      "name": "可莉",
+      "level": "5",
+      "wp_type": "法器",
+      "element": "火",
+      "gender": "女",
+      "country": "蒙德",
+      "blood_max": "10287",
+      "attack_max": "311",
+      "defend_max": "615",
+      "levelup_max": "火元素伤害加成28.8%",
+      "skill": "特产探索、减防、能量回复、伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/b/b1/rlnhn26076peuvah42o85o2pha5m7am.png"
+    },
+    {
+      "id": 9,
+      "name": "温迪",
+      "level": "5",
+      "wp_type": "弓箭",
+      "element": "风",
+      "gender": "男",
+      "country": "蒙德",
+      "blood_max": "10531",
+      "attack_max": "263",
+      "defend_max": "669",
+      "levelup_max": "元素充能+32%",
+      "skill": "聚怪、滑翔消耗减少、控制、能量回复、减抗、自身伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/5/58/487eqx6pk6si5abhemvrdkyexskvvbg.png"
+    },
+    {
+      "id": 10,
+      "name": "七七",
+      "level": "5",
+      "wp_type": "单手剑",
+      "element": "冰",
+      "gender": "女",
+      "country": "璃月",
+      "blood_max": "12368",
+      "attack_max": "287",
+      "defend_max": "922",
+      "levelup_max": "治疗加成+22.2%",
+      "skill": "治疗、复活、特产探索、减攻、能量回复、自身伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/8/8b/049fpv6jcr66mln0nmbbfgigfrkgrzo.png"
+    },
+    {
+      "id": 11,
+      "name": "迪卢克",
+      "level": "5",
+      "wp_type": "双手剑",
+      "element": "火",
+      "gender": "男",
+      "country": "蒙德",
+      "blood_max": "12981",
+      "attack_max": "335",
+      "defend_max": "784",
+      "levelup_max": "暴击率19.2%",
+      "skill": "锻造返还、自身附魔、自身伤害加成",
+      "pic": "https://patchwiki.biligame.com/images/ys/9/94/mkpw3ljc2eoea75lhkyccu6mbsbiqnr.png"
+    },
+    {
+      "id": 12,
+      "name": "琴",
+      "level": "5",
+      "wp_type": "单手剑",
+      "element": "风",
+      "gender": "女",
+      "country": "蒙德",
+      "blood_max": "14695",
+      "attack_max": "239",
+      "defend_max": "769",
+      "levelup_max": "治疗加成+22.2%",
+      "skill": "聚怪、治疗、烹饪、能量回复、控制、伤害减免、减抗、攻速提升、移速提升、元素附着",
+      "pic": "https://patchwiki.biligame.com/images/ys/1/1a/g3cl4mrxow8af265n2ajqtnuf99pkfa.png"
+    },
+    {
+      "id": 13,
+      "name": "莫娜",
+      "level": "5",
+      "wp_type": "法器",
+      "element": "水",
+      "gender": "女",
+      "country": "蒙德",
+      "blood_max": "10409",
+      "attack_max": "287",
+      "defend_max": "653",
+      "levelup_max": "元素充能+32%",
+      "skill": "控制、嘲讽、炼金返还、伤害提升、暴击提升、快速移动、自身伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/c/ce/refnobe859mskudq9i634djaniepwvt.png"
+    },
+    {
+      "id": 14,
+      "name": "刻晴",
+      "level": "5",
+      "wp_type": "单手剑",
+      "element": "雷",
+      "gender": "女",
+      "country": "璃月",
+      "blood_max": "13103",
+      "attack_max": "323",
+      "defend_max": "799",
+      "levelup_max": "暴击伤害+38.4%",
+      "skill": "位移、派遣、能量回复、自身附魔、自身伤害提升",
+      "pic": "https://patchwiki.biligame.com/images/ys/6/64/goj6bb8yj190midok60n2fbkk872090.png"
+    },
+    {
+      "id": 15,
+      "name": "旅行者",
+      "level": "5",
+      "wp_type": "单手剑",
+      "element": "风、岩",
+      "gender": "男、女",
+      "country": "无",
+      "blood_max": "10875",
+      "attack_max": "212",
+      "defend_max": "683",
+      "levelup_max": "攻击力加成+24%",
+      "skill": "属性变换、自身治疗、暴击提升、能量回复、自身伤害提升、控制、减抗",
+      "pic": "https://patchwiki.biligame.com/images/ys/thumb/c/cd/5for6v8dfca0j33mfutmjwmdnvi774u.png/60px-%E6%97%85%E8%A1%8C%E8%80%85%E5%A4%B4%E5%83%8F.png"
+    }
+  ]
+}
