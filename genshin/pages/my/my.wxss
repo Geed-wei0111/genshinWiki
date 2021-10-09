@@ -1,0 +1,25 @@
+/* pages/my/my.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+.avater{
+  margin: 40rpx auto;
+  width: 200rpx;
+  display: block;
+  border-radius: 50%;
+}
+
+.username{
+  text-align: center;
+  border-bottom: gray solid 2px;
+  color:black;
+}
+
+.about,.myWeapon,.exit{
+  margin: 20rpx 50rpx;
+  background-color: #87CEFA;
+}
+
+.about image,.myWeapon image,.exit image{
+  width: 80rpx;
+}

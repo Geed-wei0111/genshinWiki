@@ -1,0 +1,6 @@
+<!--pages/send/send.wxml-->
+
+<view class="area">
+  <textarea placeholder="{{'输入你想发送的信息'}}" maxlength="200" bindinput="handleText" class="inputArea" cols="37" rows="10"></textarea>
+  <button bindtap="sendMessage" class="send">发送信息</button>
+</view>

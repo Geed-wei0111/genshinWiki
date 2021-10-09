@@ -1,0 +1,16 @@
+/* pages/send/send.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+.area{
+  margin: 10rpx;
+}
+
+.send{
+  color: 	#008080;
+}
+
+.inputArea{
+  width: 750rpx;
+  background-color: 	#4169E1;
+}

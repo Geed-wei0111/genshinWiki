@@ -1,0 +1,44 @@
+/* pages/character/character.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+.search{
+  display: flex;
+}
+
+.search input{
+  width: 600rpx;
+  height: 62rpx;
+  border: solid gray 2rpx;
+  background-color: #87CEEB;
+}
+
+.search button{
+  flex: 1;
+  color: 	#4169E1;
+}
+
+.item{
+  display: flex;
+  margin-top: 10rpx;
+  border-radius: 1%;
+  border: solid #708090 2rpx;
+}
+
+.item image{
+  width: 200rpx;
+}
+
+.item view{
+  text-align: center;
+}
+
+.title{
+  display: flex;
+  margin-left: 30rpx;
+}
+
+.title view,.item view{
+  flex: 1;
+  margin: 0 auto;
+}

@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/my/my",
+    "pages/mission/mission",
+    "pages/weapon/weapon",
+    "pages/character/character",
+    "pages/relics/relics",
+    "pages/weapon/detail/detail",
+    "pages/send/send",
+    "pages/mission/detail/detail",
+    "pages/my/likewep/likewep",
+    "pages/relics/detail/detail",
+    "pages/character/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "GenshinImpactWiki",
+    "navigationBarBackgroundColor": "#6495ED"
+  },
+  "tabBar": {
+    "backgroundColor": "#6495ED",
+    "list": [
+      {
+        "iconPath": "/icons/home.png",
+        "pagePath": "pages/home/home",
+        "selectedIconPath": "/icons/home_light.png",
+        "text": "首页"
+      },
+      {
+        "iconPath": "/icons/send.png",
+        "pagePath": "pages/send/send",
+        "selectedIconPath": "/icons/send_light.png",
+        "text": "发送讨论"
+      },
+      {
+        "iconPath": "/icons/my.png",
+        "pagePath": "pages/my/my",
+        "selectedIconPath": "/icons/my_light.png",
+        "text": "我的资料"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

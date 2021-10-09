@@ -1,0 +1,16 @@
+<!--pages/relics/relics.wxml-->
+<view class="search">
+  <input type="text" bindinput="handleSearch"></input> <button bindtap="searchRelics" size="mini">搜索</button>
+</view>
+
+<view class="title">
+      <view>圣遗物图片</view>
+      <view>圣遗物名称</view>
+</view>
+
+<view class="list">
+  <view class="item" wx:for="{{relics}}" wx:key="index" bindtap="handleRelicsDetail" data-reid="{{item.id}}">
+    <image mode="widthFix" src="{{item.picture}}"></image>
+    <view>{{item.name}}</view>
+  </view>
+</view>

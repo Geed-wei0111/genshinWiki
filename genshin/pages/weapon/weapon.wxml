@@ -1,0 +1,28 @@
+<!--pages/weapon/weapon.wxml-->
+
+<view class="search">
+  <input type="text" bindinput="handleSearch"></input> <button bindtap="searchWeapon" size="mini">搜索</button>
+</view>
+
+<radio-group>
+  <radio data-id="1" bindtap="handleSelect">长柄</radio>
+  <radio data-id="2" bindtap="handleSelect">法器</radio>
+  <radio data-id="3" bindtap="handleSelect">单手剑</radio>
+  <radio data-id="4" bindtap="handleSelect">双手剑</radio>
+  <radio data-id="5" bindtap="handleSelect">弓</radio>
+  <radio checked="true" data-id="0" bindtap="handleSelect">无</radio>
+</radio-group>
+
+<view class="title">
+      <view>武器图片</view>
+      <view>武器名称</view>
+      <view>武器种类</view>
+</view>
+
+<view class="list">
+  <view class="item" wx:for="{{weapons}}" wx:key="index" bindtap="handleWeaponDetail" data-wepid="{{item.id}}">
+    <image mode="widthFix" src="{{item.picture}}"></image>
+    <view>{{item.name}}</view>
+    <view>{{item.variety}}</view>
+  </view>
+</view>

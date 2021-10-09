@@ -1,0 +1,19 @@
+<!--pages/my/my.wxml-->
+<button hidden="{{userInfo}}" bindtap="handleLogin" type="primary">授权登录</button>
+
+<!-- 显示头像 -->
+<image hidden="{{!userInfo}}" class="avater" mode="widthFix" src="{{userInfo.avatarUrl}}"></image>
+
+<view hidden="{{!userInfo}}" class="username">用户名：{{userInfo.nickName}}</view>
+
+<view bindtap="myWeapon" class="myWeapon" hidden="{{!userInfo}}">
+  <image mode="widthFix" src="/icons/like.png"></image>
+武器收藏夹</view>
+
+<view class="about" bindtap="aboutUs" hidden="{{!userInfo}}">
+  <image mode="widthFix" src="/icons/change.png"></image>
+关于我们</view>
+
+<view class="exit" bindtap="handleExit" hidden="{{!userInfo}}">
+  <image mode="widthFix" src="/icons/exit.png"></image>
+退出登录</view>

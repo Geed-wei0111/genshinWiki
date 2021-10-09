@@ -1,0 +1,17 @@
+/* pages/mission/mission.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+.list{
+  margin: 30rpx;
+  background-color: #eee;
+  border-radius: 10%;
+}
+image{
+  width: 700rpx;
+  border-radius: 10%;
+}
+
+view{
+  text-align: center;
+}

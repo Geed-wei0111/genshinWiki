@@ -1,0 +1,55 @@
+/* pages/home/home.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+.lunbo{
+  height: 187.5rpx;
+}
+
+.lunbo image{
+  width: 750rpx;
+}
+
+.icons{
+  display: flex;
+  border-radius: 10%;
+  margin: 20rpx;
+}
+
+.icon{
+  align-items: center;
+  flex: 1;
+  padding-left: 30rpx;
+  margin: 0 auto;
+}
+
+.icon image{
+  width: 100rpx;
+}
+
+.icon view{
+  flex: 1;
+  font-weight: bold;
+  font-size: 24rpx;
+}
+
+.Title{
+  background: #eee;
+  font-weight: bolder;
+  font-size: 38rpx;
+  padding-left: 20rpx;
+}
+
+.newVersion{
+  width: 750rpx;
+}
+
+.comitem{
+  margin: 10rpx;
+  line-height: 2;
+  background-color: #D4F2E7;
+}
+
+.comitem image{
+  width: 40rpx;
+}

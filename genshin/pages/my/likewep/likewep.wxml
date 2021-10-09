@@ -1,0 +1,14 @@
+<!--pages/my/likewep/likewep.wxml-->
+
+<view class="title">
+  <view>序号</view>
+  <view>武器名称</view>
+</view>
+<view class="list">
+  <view class="item" wx:for="{{list}}" wx:key="index">
+    <view class="item_index">{{index}}</view>
+    <view class="item_name">{{item.wepname}}</view>
+    <button data-id="{{item.wepid}}" bindtap="handleDetail" plain="true" type="primary">查看</button>
+    <button data-id="{{item.id}}" bindtap="handleDelete" plain="true" type="warn">删除</button>
+  </view>
+</view>

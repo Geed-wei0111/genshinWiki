@@ -1,0 +1,26 @@
+/* pages/relics/detail/detail.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+  text-align: center;
+
+}
+
+.picture{
+  display: flex;
+}
+
+.picture image{
+  margin: 0 auto;
+  width: 450rpx;
+  border-radius: 20%;
+}
+
+.name{
+  font-weight: bolder;
+  font-size: 54rpx;
+  text-align: center;
+}
+
+.base1,.base2{
+  font-size: 30rpx;
+}

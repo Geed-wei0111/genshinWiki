@@ -1,0 +1,18 @@
+<!--pages/character/character.wxml-->
+<view class="search">
+  <input type="text" bindinput="handleSearch"></input> <button bindtap="searchCharacter" size="mini">搜索</button>
+</view>
+
+<view class="title">
+      <view>角色头像</view>
+      <view>角色名称</view>
+      <view>所属国家</view>
+</view>
+
+<view class="list">
+  <view class="item" wx:for="{{character}}" wx:key="index" bindtap="handleCharacterDetail" data-chaid="{{item.id}}">
+    <image mode="widthFix" src="{{item.pic}}"></image>
+    <view>{{item.name}}</view>
+    <view>{{item.country}}</view>
+  </view>
+</view>

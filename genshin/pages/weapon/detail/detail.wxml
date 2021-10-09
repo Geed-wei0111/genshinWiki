@@ -1,0 +1,24 @@
+<!--pages/weapon/detail/detail.wxml-->
+
+<view class="picture">
+  <image src="{{weapon.picture}}" mode="widthFix"></image>
+</view>
+
+<view class="info">
+  <view class="name">武器名称：{{weapon.name}}</view>
+  <view class="base1">
+    基础值1：{{weapon.base1}}
+    基础值1max：{{weapon.base1_max}}
+  </view>
+  <view class="base2">
+    基础值2：{{weapon.base2}}
+    基础值2max：{{weapon.base2_max}}
+  </view>
+  <view class="skill">
+    {{weapon.skill}}
+  </view>
+</view>
+
+<button bindtap="likeThisWeapon">
+  收藏该武器
+</button>

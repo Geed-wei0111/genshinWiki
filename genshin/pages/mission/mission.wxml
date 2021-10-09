@@ -1,0 +1,5 @@
+<!--pages/mission/mission.wxml-->
+<view class="list" wx:for="{{videos}}" wx:key="index">
+  <image mode="widthFix" class="poster" src="{{item.picture}}" data-id="{{item.id}}" bindtap="handleDetail"></image>
+  <view class="title">{{item.name}}</view>
+</view>

@@ -1,0 +1,31 @@
+/* pages/mission/detail/detail.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+}
+
+video{
+  width: 750rpx;
+}
+
+.title{
+  margin: 10rpx;
+  font-weight: bolder;
+  font-size: 40rpx;
+}
+
+.desc{
+  margin: 10rpx;
+  font-size: 30rpx;
+}
+
+.comtitle{
+  padding-left: 20rpx;
+  margin: 10rpx 0;
+  font-weight: bold;
+  background-color: white;
+}
+
+.text{
+  background-color: #00FA9A;
+  margin: 10rpx;
+}

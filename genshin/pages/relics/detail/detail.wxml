@@ -1,0 +1,14 @@
+<!--pages/relics/detail/detail.wxml-->
+<view class="picture">
+  <image src="{{relic.picture}}" mode="widthFix"></image>
+</view>
+
+<view class="info">
+  <view class="name">圣遗物名称：{{relic.name}}</view>
+  <view class="base1">
+    二件套效果：{{relic.skill1}}
+  </view>
+  <view class="base2">
+    四件套效果：{{relic.skill2}}
+  </view>
+</view>

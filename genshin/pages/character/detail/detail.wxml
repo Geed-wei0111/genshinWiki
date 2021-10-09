@@ -1,0 +1,23 @@
+<!--pages/character/detail/detail.wxml-->
+<view class="picture">
+  <image src="{{character.pic}}" mode="widthFix"></image>
+</view>
+
+<view class="info">
+  <view class="name">角色名称：{{character.name}}</view>
+  <view class="base1">血量最大值：{{character.blood_max}}</view>
+  <view class="base1">攻击最大值：{{character.attack_max}}</view>
+  <view class="base1">防御最大值：{{character.defend_max}}</view>
+  <view class="base1">突破最大加成：{{character.levelup_max}}</view>
+  
+  <view class="base2">
+    神之眼：{{character.element}}
+  </view>
+  <view class="base2">
+    武器类型：{{character.wp_type}}
+  </view>
+  <view class="skill">
+    特点：{{character.skill}}
+  </view>
+</view>
+

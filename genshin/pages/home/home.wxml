@@ -1,0 +1,25 @@
+<!--pages/home/home.wxml-->
+
+<swiper class="lunbo" autoplay="true" interval="3000" duration="1000" indicator-dots="true">
+  <swiper-item wx:for="{{lunbo}}" wx:key="index" >
+    <image mode="widthFix" src="http://localhost:3000{{item}}"></image>
+  </swiper-item>
+</swiper>
+
+<view class="icons">
+  <view class="icon"  wx:for="{{icon}}" wx:key="index" data-id="{{index}}" bindtap="handleNavigator" >
+    <image mode="widthFix" src="http://localhost:3000{{item.icon}}"></image>
+    <view class="icon_text">{{item.text}}</view>
+  </view>
+</view>
+
+<view class="Title">新资讯展示</view>
+<video autoplay="true" muted="true" class="newVersion" 
+  auto-pause-if-navigate="true" auto-pause-if-open-native="true"
+src="http://localhost:3000/home_video.mp4"></video>
+
+<view class="Title">留言讨论区</view>
+
+<view wx:for="{{comments}}" wx:key="index" class="comitem">
+<image mode="widthFix" src="/icons/people.png"></image>
+{{item.message}}</view>

@@ -1,0 +1,13 @@
+<!--pages/mission/detail/detail.wxml-->
+
+<video poster="{{video.picture}}" src="http://localhost:3000{{video.link}}"></video>
+
+<view class="title">{{video.name}}</view>
+<view class="desc">简介：{{video.desc}}</view>
+
+<button bindtap="handleComment">发表评论</button>
+
+<view class="comment">
+  <view class="comtitle">评论区</view>
+  <view class="text" wx:key="index" wx:for="{{comment}}">{{item.comment}}</view>
+</view>

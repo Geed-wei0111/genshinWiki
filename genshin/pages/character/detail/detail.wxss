@@ -1,0 +1,30 @@
+/* pages/character/detail/detail.wxss */
+page{
+  background-image: url(https://patchwiki.biligame.com/images/ys/8/8e/fs0zegmjxowe043i2r430w2ss0vi9fg.jpg);
+  text-align: center;
+}
+
+.picture{
+  display: flex;
+}
+
+.picture image{
+  margin: 0 auto;
+  width: 400rpx;
+  border-radius: 20%;
+}
+
+.name{
+  font-weight: bolder;
+  font-size: 60rpx;
+  text-align: center;
+}
+
+.base1,.base2{
+  font-size: 30rpx;
+}
+
+.skill{
+  font-weight: bold;
+  font-size: 40rpx;
+}
